@@ -6,6 +6,6 @@ The Enterprise Data Inventory is a CKAN based data management system for private
 For those interested in implementing their own copy of this software, this documentation will be regularly updated with information about the neccessary packages. An initial outline is available below
 
 ###Software Packages Used
-- CKAN 2.0 (a [modified version](https://github.com/dwcaraway/ckan) which is in the process of being merged with the master branch)
+- CKAN 2.0 (a [modified version](https://github.com/GSA/ckan/tree/inventory) which is in the process of being merged with the master branch)
 - DataJSON Extension - https://github.com/GSA/ckanext-datajson
 - USMetadata Extension - https://github.com/GSA/USMetadata
