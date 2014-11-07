@@ -9,3 +9,5 @@ For those interested in implementing their own copy of this software, this docum
 - CKAN v2.2 (a [modified version](https://github.com/GSA/ckan/tree/inventory) which is in the process of being merged with the master branch)
 - DataJSON Extension - https://github.com/GSA/ckanext-datajson
 - USMetadata Extension - https://github.com/GSA/USMetadata
+
+For a full list of relevant repos, see the [Data.gov README](https://github.com/GSA/data.gov/blob/master/README.md).
